@@ -14,12 +14,12 @@ UML: ![Python-UML-1](https://user-images.githubusercontent.com/117522247/2069585
 
 ## Self Assessment
 
-Ratings:
-Code Reusability 4/4
-Maintainability 4/4
-Scalability 4/4
-Execution 4/4
-Originality 4/4
+Ratings: <br>
+Code Reusability 4/4 <br>
+Maintainability 4/4 <br>
+Scalability 4/4 <br>
+Execution 4/4 <br>
+Originality 4/4 <br>
 Overall impression 4/4
 
 ## Install PyCharm
@@ -29,6 +29,6 @@ Overall impression 4/4
 4. Click on Finish to complete PyCharm Community Edition setup.
 
 ## Contributors
-Clarence Joseph Baroja Castro - https://github.com/Clarence-Castro
+Clarence Joseph Baroja Castro - https://github.com/Clarence-Castro <br>
 John Vhenedict Mente - https://github.com/Vhenedict-Mente
 
