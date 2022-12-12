@@ -12,6 +12,16 @@ Video Presentation: https://youtu.be/VBC7hjwwc8Y
 
 UML: ![Python-UML-1](https://user-images.githubusercontent.com/117522247/206958582-b9436840-b98f-4295-a79e-f70898962e65.png)
 
+## Self Assessment
+
+Ratings:
+Code Reusability 4/4
+Maintainability 4/4
+Scalability 4/4
+Execution 4/4
+Originality 4/4
+Overall impression 4/4
+
 ## Install PyCharm
 1. You can download the IDE here: https://www.jetbrains.com/pycharm/download/#section=windows
 2. You'll see two options which are Professional and Community. I recommend installing PyCharm community since it is free.
