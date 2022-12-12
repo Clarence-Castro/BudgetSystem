@@ -7,9 +7,16 @@ This application is built with Python programming language. It does CRUD operati
 shows what time and date the user input the records in the text file. This application will be used by users who wants to track their budget and get their total budget
 and use 50/30/20 Budget Rule.
 
+
 Video Presentation: https://youtu.be/VBC7hjwwc8Y
 
-UML: [Python-UML.pdf](https://github.com/Clarence-Castro/pythonProject/files/10204429/Python-UML.pdf)
+UML: ![Python-UML-1](https://user-images.githubusercontent.com/117522247/206958582-b9436840-b98f-4295-a79e-f70898962e65.png)
+
+## Install PyCharm
+1. You can download the IDE here: https://www.jetbrains.com/pycharm/download/#section=windows
+2. You'll see two options which are Professional and Community. I recommend installing PyCharm community since it is free.
+3. After downloading the .exe file, run the file to install PyCharm
+4. Click on Finish to complete PyCharm Community Edition setup.
 
 ## Contributors
 Clarence Joseph Baroja Castro - https://github.com/Clarence-Castro
