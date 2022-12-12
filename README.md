@@ -13,8 +13,6 @@ Video Presentation: https://youtu.be/VBC7hjwwc8Y
 UML: ![Python-UML-1](https://user-images.githubusercontent.com/117522247/206958582-b9436840-b98f-4295-a79e-f70898962e65.png)
 
 ## Self Assessment
-
-Ratings: <br>
 Code Reusability 4/4 <br>
 Maintainability 4/4 <br>
 Scalability 4/4 <br>
@@ -31,4 +29,3 @@ Overall impression 4/4
 ## Contributors
 Clarence Joseph Baroja Castro - https://github.com/Clarence-Castro <br>
 John Vhenedict Mente - https://github.com/Vhenedict-Mente
-
